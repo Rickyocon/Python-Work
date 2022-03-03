@@ -1,0 +1,44 @@
+#map width: 800,  height: 800, unitWidth: 25, units per line: 16 
+S      SSSS    SSS             S
+S              S S     B       S
+S            SSSS              S
+S                              S
+S                              S
+S    B                        SS
+S                             SS
+S                          SSSSS
+SSSSSSS    SSSSSSSSS    SSSSSSSS
+SSSSS        SSSSSSSSSSSS    SSS
+SSSSSSSSS    SSSSSSSSSSSS    SSS
+SSSSSSSS    SSSSSSSSSS    SSSSSS
+SSSS    SSSSSSSSSS   SSSSSSSSSSS
+SS    S    SSSSSSS         SSSSS
+SSSSSSS    SSGGGGGGGG   SSSSSSSS
+SSSSS        SGGGGGGGGSSS    SSS
+SSSSSSSSS    SGGGGGGGGSSS    SSS
+SSSSSSSS    SSSSSSSSSS    SSSSSS
+SSSS    SSSSSSSSSS   SSSSSSSSSSS
+SS    S    SSSSSSS         SSSSS
+SSSSSSS    SSSSSSSSS    SSSSSSSS
+SSSSS        SSSSSSSSSSSS    SSS
+SSSSSSSSS    SSSSSSSSSSSS    SSS
+SSSSSSSHHGGGGHHHHHHHHHHHSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+SSSSSSSH               HSSSSSSSS
+
+#mytank format: x y
+400 750
+
+#enemytank format: x, y, time_to_appear (note: in same second, no two events)
+50 0 1
+700 0 2
+50 0 10 
+700 0 11
+50 0 20
+700 0 22

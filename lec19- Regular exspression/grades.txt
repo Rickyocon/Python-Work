@@ -1,0 +1,5 @@
+FName: John LName: Johnson Grade:  A
+FName: Adam LName: Arnold Grade:  B
+FName: Sam LName: Sorrel Grade:  A
+FName: Lexi LName: Lamins Grade:  C
+FName: Frank LName: franklins Grade:  F
